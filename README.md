@@ -80,7 +80,3 @@ else:
     <li><a href="https://docs.python.org/3/library/json.html">JSON in Python</a></li>
 </ul>
 
-## License
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
