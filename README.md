@@ -3,7 +3,7 @@
 ## Project Overview
 
 <p>
-    This project focuses on scraping GIS (Geographic Information Systems) job listings from the web.
+    This project focuses on scraping GIS (Geographic Information Systems) developer job listings in indeed.
     Using BeautifulSoup and requests in Python, I extracted job titles, company names, locations, 
     posting dates, and descriptions. The extracted data is saved into a JSON file.
 </p>
